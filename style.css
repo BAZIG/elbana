@@ -1,0 +1,19 @@
+/* Custom Styles */
+body {
+  padding-top: 56px; /* Offset for fixed navbar */
+}
+
+.carousel-item img {
+  height: 400px;
+  object-fit: cover;
+}
+
+section {
+  padding: 60px 0;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
